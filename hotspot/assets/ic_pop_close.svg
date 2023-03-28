@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_pop_close</title>
+    <g id="效果图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-198.000000, -137.000000)">
+            <g id="ic_pop_close" transform="translate(198.000000, 137.000000)">
+                <path d="M12,0 C18.627417,-1.21743675e-15 24,5.372583 24,12 C24,18.627417 18.627417,24 12,24 C5.372583,24 8.11624501e-16,18.627417 0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="矩形备份-6" fill="#EC7676"></path>
+                <path d="M13,6 L13,11 L18,11 L18,13 L13,13 L13,18 L11,18 L11,13 L6,13 L6,11 L11,11 L11,6 L13,6 Z" id="形状结合" fill="#FFFFFF" transform="translate(12.000000, 12.000000) rotate(-315.000000) translate(-12.000000, -12.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
